@@ -1,0 +1,21 @@
+body{padding-top: 20px;padding-bottom: 40px;}
+/* Custom container */
+.container-narrow {margin: 0 auto;max-width: 770px;}
+.container-narrow > hr {margin: 30px 0;}
+/* Main marketing message and sign up button */
+.jumbotron {margin: 60px 0;text-align: center;}
+.jumbotron h1 {font-size: 72px;line-height: 1;}
+.jumbotron .btn {font-size: 21px;padding: 14px 24px;}
+/* Supporting marketing content */
+.marketing {margin: 60px 0;}
+.marketing p + h4 {margin-top: 28px;}
+/* Custom editing */
+.dataTables_wrapper .row{margin: 0px}
+.dataTable{border-left:1px solid #dddddd;}
+.dataTables_wrapper .row .col-sm-6:first-child{float:left;}
+.dropdown{padding:13px 0px}
+.form-signin{max-width: 300px;}
+.alert{text-align: left}
+.display-none{display: none}
+.form-control{width: 100%;display: block;}
+textarea.my-text{display: block;height:200px;resize:none;display: block;padding:20px;}
